@@ -4,4 +4,5 @@ class GardenGnome
   attr_writer :name, :age, :gluten_allergy
   def initialize(personality)
     @personality = "evil"
+  end
 end
